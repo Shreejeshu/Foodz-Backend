@@ -22,6 +22,6 @@ server.use(router)
 
 // run app
 server.listen(port,()=>{
-    console.log(`foodx server started ${port}`);
+    console.log(`foodz server started ${port}`);
 })
 
